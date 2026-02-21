@@ -19,4 +19,4 @@ Este proyecto es un Análisis Exploratorio de Datos (EDA) desarrollado para "Com
 ## 📁 Estructura del Repositorio
 * ABP_Modulo_5_Nicolás_Pérez.ipynb: Cuaderno fuente con el código documentado paso a paso.
 * Informe_Tecnico_ComercioYA.pdf: Reporte ejecutivo final con las conclusiones de negocio.
-* /graficos: Graficos de visualizaciones exportadas (Heatmap, Pairplot, Jointplot, etc.).
+*  Graficos de visualizaciones exportadas (Heatmap, Pairplot, Jointplot, etc.).
